@@ -1,3 +1,7 @@
+.font-1-xs {
+  font: 400 0.875rem/1.43 "Poppins", sans-serif;
+}
+
 .font-2-xs {
   font: 400 0.875rem/1.43 "Roboto", sans-serif;
 }
